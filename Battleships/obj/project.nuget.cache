@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "RkEfS3tTYjFDpX8rCgKc0rnZJG5soSBNpaUQGpeNPqjALluPlDMsFF5U4wNb0gvD4HMziQaYq2zUrT5/kXlNIg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\matth\\source\\repos\\Battleships\\Battleships\\Battleships.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\matth\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.8\\microsoft.aspnetcore.app.ref.3.1.8.nupkg.sha512",
+    "C:\\Users\\matth\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.9\\microsoft.netcore.app.host.win-x64.3.1.9.nupkg.sha512"
+  ],
+  "logs": []
+}
